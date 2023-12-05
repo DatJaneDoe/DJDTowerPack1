@@ -11,7 +11,6 @@ public static class ModHelperData
     public const string Icon = "pack1";
     public const string RepoOwner = "DatJaneDoe";
     public const string RepoName = "DJDTowerPack1";
-    public const string DllName = "DJDTowerPack.dll";
-	
+
 	
 }
